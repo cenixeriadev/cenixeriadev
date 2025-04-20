@@ -1,7 +1,34 @@
 
 # 💫 About Me:
-🔭 I’m currently working on my hard skills in ML, backend, automation, system design.
+Hi, I'm a passionate Software Developer and Systems Engineering Student with a love for problem-solving, clean code, and continuous learning. My journey spans from low-level programming in C++ to high-level web development with Spring Boot, Django, Angular, and FastAPI.
 
+I’m especially interested in:
+
+    💡 Backend Engineering & Microservices
+
+    🧠 Machine Learning & Data Science
+
+    🔐 Cybersecurity and Ethical Hacking
+
+    📊 Financial Data Analysis and Algorithmic Thinking
+
+    ⚙️ Cloud-Native Apps and Scalable System Design
+
+    💻 Automating things with GitHub Actions & Docker
+
+📚 Learning Never Stops
+
+When I’m not coding, you’ll find me exploring:
+
+    📖 Mathematics & Theoretical CS
+    
+    ♟️ Chess (Rapid ~2060)
+    
+    🧠 Critical Thinking about economics, philosophy, and systems design
+
+    👽 Natural Science like Physics and Chemistry
+
+💬 Always happy to connect and collaborate on open-source projects or just discuss ideas!
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeartprogrammer) 
