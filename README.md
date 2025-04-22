@@ -26,6 +26,7 @@ When I’m not coding, you’ll find me exploring:
     🧠 Critical Thinking about economics, philosophy, and systems design
 
     👽 Natural Science like Physics and Chemistry
+    
     💫 Anime ,Manga and Light Novels.
 
 💬 Always happy to connect and collaborate on open-source projects or just discuss ideas!
