@@ -22,8 +22,6 @@ When I’m not coding, you’ll find me exploring:
     📖 Mathematics & Theoretical CS
     
     ♟️ Chess (Rapid ~2060)
-    
-    🧠 Critical Thinking about economics, philosophy, and systems design
 
     👽 Natural Science like Physics and Chemistry
     
