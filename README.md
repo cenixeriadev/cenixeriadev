@@ -65,6 +65,8 @@ When I’m not coding, you’ll find me exploring:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+[![Claude AI](https://img.shields.io/badge/Claude%20AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
