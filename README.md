@@ -21,7 +21,7 @@ When I’m not coding, you’ll find me exploring:
 
     📖 Mathematics & Theoretical CS
     
-    ♟️ Chess (Rapid ~2060)
+    ♟️ Chess (Rapid ~2100)
 
     👽 Natural Science like Physics and Chemistry
     
