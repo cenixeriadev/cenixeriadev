@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a passionate Software Developer and Systems Engineering Student with a love for problem-solving, clean code, and continuous learning. My journey spans from low-level programming in C++ to high-level web development with Spring Boot, Django, Angular, and FastAPI.
+Hi, I'm a passionate Software Developer and Systems Engineering Student with a love for problem-solving, clean code, and continuous learning. My journey spans from low-level programming in C++ to high-level web development with Spring Boot, Laravel, Angular, and FastAPI.
 
 I’m especially interested in:
 
